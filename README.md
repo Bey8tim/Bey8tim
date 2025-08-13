@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am a Software Developer, currently pursuing my Master's in Software Engineering at HiLCoE School of Computer Science and Technology. Passionate about creating innovative ideas and practical solutions for my community and the digital world, a Web3 enthusiast, and a member of the Ethiopian Web 3 Foundation with experience in Full-Stack Development.
+I am a Software Developer and Web Designer pursuing my Master’s in Software Engineering. Passionate about creating innovative, modern, responsive digital experiences and practical solutions that benefit both my community and the digital world. A Web3 enthusiast with hands-on experience in full-stack and web development, I specialize in building responsive, user-focused applications using modern technologies. I bring strong problem-solving skills, adaptability, and a commitment to continuous learning on every project I work on.
 
 
 ## 🌐 Socials:
