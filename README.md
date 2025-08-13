@@ -1,7 +1,7 @@
 # 💫 About Me:
 I am a Software Developer and Web Designer pursuing my Master’s in Software Engineering. Passionate about creating innovative, modern, responsive digital experiences and practical solutions that benefit both my community and the digital world. A Web3 enthusiast with hands-on experience in full-stack and web development, I specialize in building responsive, user-focused applications using modern technologies. I bring strong problem-solving skills, adaptability, and a commitment to continuous learning on every project I work on.
 
-🚀 Specialties: Full-Stack Development, Front-End Development, Back-End Development, Web Design, UI/UX Design, Responsive Web Design, Graphic Design, MERN Stack, Next.js, Three.js, 3D Web Experiences, Dark Mode UI, Git & GitHub Version Control, Agile Development, Problem-Solving, Team Collaboration.
+🚀 Specialties: Full-Stack Development, Front-End Development, Back-End Development, Responsive Web Design, UI/UX Design, Graphic Design, MERN Stack, Next.js, Three.js & 3D Web Experiences, Git & GitHub Version Control, Agile Development, Problem-Solving, Team Collaboration.
 
 
 ## 🌐 Socials:
